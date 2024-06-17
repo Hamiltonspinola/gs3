@@ -9,7 +9,7 @@ Contudo, acredito que é possível avaliar a legibilidade do código e arquitetu
 
 ## Funcionalidades
 
-1. **Buscar Produtos**: Os produtos podem ser buscados pelo nome utilizando um campo de busca. Quando o campo de busca está vazio, todos os produtos são listados.
+1. **Buscar Produtos**: Os produtos podem ser buscados pelo nome ou referência utilizando um campo de busca. Quando o campo de busca está vazio, todos os produtos são listados.
 2. **Adicionar Produto à Venda**: Produtos podem ser adicionados à lista de venda através de um botão.
 3. **Remover Produto da Venda**: Produtos podem ser removidos da lista de venda.
 4. **Calcular Total da Venda**: O valor total da venda é calculado automaticamente conforme os produtos são adicionados ou removidos.
